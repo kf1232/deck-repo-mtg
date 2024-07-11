@@ -13,7 +13,9 @@ MTG Cockatrice Community Decklists
 
 ## Procedure
 WOTC Precon Decks:
-> (1) Create a precon folder "yyyy - full name". (2) All decks inside will be deckName.txt
+1) Create a precon folder "yyyy - full name". 
+2) All decks inside will be deckName.txt
 
 Personal Decks:
-> (1) Create a folder named "Custom - Name" for your personal decks.  (2) Create your decks.
+1) Create a folder named "Custom - Name" for your personal decks.
+2) Create your decks.
